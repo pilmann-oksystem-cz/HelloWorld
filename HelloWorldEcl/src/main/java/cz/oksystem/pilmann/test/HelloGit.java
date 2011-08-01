@@ -9,4 +9,8 @@ public class HelloGit {
 		i++;
 		i = i - 1;
 	}
+	
+	public static int getInt() {
+		return 5;
+	}
 }
