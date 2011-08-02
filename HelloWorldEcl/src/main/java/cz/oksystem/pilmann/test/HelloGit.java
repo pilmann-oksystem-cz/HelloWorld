@@ -13,4 +13,8 @@ public class HelloGit {
 	public static int getInt() {
 		return 5;
 	}
+
+	public static long getLong() {
+		return 6L;
+	}
 }
