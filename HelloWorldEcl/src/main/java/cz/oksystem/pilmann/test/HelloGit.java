@@ -2,6 +2,7 @@ package cz.oksystem.pilmann.test;
 
 public class HelloGit {
 	
+	String branch = "moje branch";
 	public int x = 0;
 
 	public static void main(String[] args) {
