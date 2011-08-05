@@ -11,7 +11,7 @@ public class HelloGit {
 		System.err.println("vse ok"); // test
 		int i = 4; // x  
 		i++; //aaaa
-		i = i - 1;
+		i = i - 1;/////////
 	}
 	
 	public static int getInt() {
