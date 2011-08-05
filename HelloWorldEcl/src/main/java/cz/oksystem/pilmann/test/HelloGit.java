@@ -9,7 +9,7 @@ public class HelloGit {
 	public static void main(String[] args) {
 		System.out.println("xxx");
 		System.err.println("vse ok");
-		int i = 4;
+		int i = 4; // x  
 		i++;
 		i = i - 1;
 	}
