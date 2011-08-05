@@ -15,7 +15,7 @@ public class HelloGit {
 	}
 	
 	public static int getInt() {
-		return 5;
+		return 5;//////////
 	}
 
 	public static long getLong() {
