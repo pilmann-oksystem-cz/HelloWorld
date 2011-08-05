@@ -10,7 +10,7 @@ public class HelloGit {
 		System.out.println("xxx");
 		System.err.println("vse ok"); // test
 		int i = 4; // x  
-		i++;
+		i++; //aaaa
 		i = i - 1;
 	}
 	
